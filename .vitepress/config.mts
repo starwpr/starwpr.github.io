@@ -5,6 +5,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "叶桃防灾",
   description: "一个非盈利性质的民间防灾减灾爱好者以及自然观测爱好者共同组成的团队。",
+  base: '/docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo:'./media/lpdp_logo.png',
