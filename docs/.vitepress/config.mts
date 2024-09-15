@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
+ const base = "/"
 export default defineConfig({
   title: "StaRW",
   description: "A Website of RCBS and StaRW.",
