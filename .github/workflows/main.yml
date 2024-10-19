@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 # 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
-permissions:ghp_BORWDYWWGECRM3RendWVS6yitWbnc1U0RiD
+permissions:
   contents: read
   pages: write
   id-token: write
